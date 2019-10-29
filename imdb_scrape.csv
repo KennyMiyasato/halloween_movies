@@ -1,0 +1,101 @@
+primary_key,movie_name,year,movie_mpaa_rating,regexd_year
+tt0107120,Hocus Pocus,(1993),PG,1993
+tt0077651,Halloween,(1978),R,1978
+tt0107688,The Nightmare Before Christmas,(1993),PG,1993
+tt0173886,Halloweentown,(1998 TV Movie),TV-G,1998
+tt0862856,Trick 'r Treat,(2007),R,2007
+tt0101272,The Addams Family,(1991),PG-13,1991
+tt0094721,Beetlejuice,(1988),PG,1988
+tt0112642,Casper,(1995),PG,1995
+tt0385880,Monster House,(2006),PG,2006
+tt0279513,When Good Ghouls Go Bad,(2001 TV Movie),PG,2001
+tt6763664,The Haunting of Hill House,(2018– ),TV-MA,2018
+tt0109506,The Crow,(1994),R,1994
+tt0060550,"It's the Great Pumpkin, Charlie Brown",(1966 TV Movie),Not Rated,1966
+tt0246578,Donnie Darko,(2001),R,2001
+tt4574334,Stranger Things,(2016– ),TV-14,2016
+tt0162661,Sleepy Hollow,(1999),R,1999
+tt0088263,Michael Jackson: Thriller,(1983 Video),PG,1983
+tt0083866,E.T. the Extra-Terrestrial,(1982),PG,1982
+tt0093560,The Monster Squad,(1987),PG-13,1987
+tt0191173,The Halloween Tree,(1993 TV Movie),Not Rated,1993
+tt7569592,Chilling Adventures of Sabrina,(2018– ),TV-14,2018
+tt2301643,Halloween Wars,(2011– ),,2011
+tt1844624,American Horror Story,(2011– ),TV-MA,2011
+tt0089593,The Midnight Hour,(1985 TV Movie),Unrated,1985
+tt0092239,The Worst Witch,(1986 TV Movie),G,1986
+tt0070047,The Exorcist,(1973),R,1973
+tt0330859,Scary Godmother: Halloween Spooktakular,(2003 TV Movie),Not Rated,2003
+tt1457767,The Conjuring,(2013),R,2013
+tt0087332,Ghostbusters,(1984),PG,1984
+tt1396484,It,(I) (2017),R,I
+tt0138510,Idle Hands,(1999),R,1999
+tt0097814,Kiki's Delivery Service,(1989),G,1989
+tt3387520,Scary Stories to Tell in the Dark,(2019),PG-13,2019
+tt4386242,R.L. Stine's Monsterville: Cabinet of Souls,(2015 TV Movie),PG,2015
+tt0251736,House of 1000 Corpses,(2003),R,2003
+tt0073629,The Rocky Horror Picture Show,(1975),R,1975
+tt0057729,The Addams Family,(1964–1966),TV-G,1964
+tt0057773,The Munsters,(1964–2004),TV-PG,1964
+tt0167404,The Sixth Sense,(1999),PG-13,1999
+tt0327597,Coraline,(2009),PG,2009
+tt2628232,Penny Dreadful,(2014–2016),TV-MA,2014
+tt0086336,Something Wicked This Way Comes,(1983),PG,1983
+tt0084516,Poltergeist,(1982),PG,1982
+tt0116365,The Frighteners,(1996),R,1996
+tt0100944,The Witches,(1990),PG,1990
+tt0259153,Rose Red,(2002),PG-13,2002
+tt0304141,Harry Potter and the Prisoner of Azkaban,(2004),PG,2004
+tt1623288,ParaNorman,(2012),PG,2012
+tt0054215,Psycho,(1960),R,1960
+tt0063350,Night of the Living Dead,(1968),Not Rated,1968
+tt0088930,Clue,(1985),PG,1985
+tt0092991,Evil Dead II,(1987),R,1987
+tt0109707,Ed Wood,(1994),R,1994
+tt0021814,Dracula,(1931),Passed,1931
+tt0021884,Frankenstein,(1931),Passed,1931
+tt4189022,Ash vs Evil Dead,(2015–2018),TV-MA,2015
+tt3289956,The Autopsy of Jane Doe,(2016),R,2016
+tt0115963,The Craft,(1996),R,1996
+tt0084787,The Thing,(1982),R,1982
+tt0837562,Hotel Transylvania,(2012),PG,2012
+tt0089175,Fright Night,(1985),R,1985
+tt0089885,Re-Animator,(1985),Unrated,1985
+tt0082010,An American Werewolf in London,(1981),R,1981
+tt0103873,Braindead,(1992),R,1992
+tt0117571,Scream,(1996),R,1996
+tt0110148,Interview with the Vampire: The Vampire Chronicles,(1994),R,1994
+tt0460681,Supernatural,(2005– ),TV-14,2005
+tt0121164,Corpse Bride,(2005),PG,2005
+tt0093437,The Lost Boys,(1987),R,1987
+tt0089908,Return to Oz,(1985),PG,1985
+tt0109592,Cemetery Man,(1994),R,1994
+tt1591095,Insidious,(I) (2010),PG-13,I
+tt1139797,Let the Right One In,(2008),R,2008
+tt0210070,Ginger Snaps,(2000),Not Rated,2000
+tt0384537,Silent Hill,(2006),R,2006
+tt1077368,Dark Shadows,(2012),PG-13,2012
+tt2118624,The Final Girls,(2015),PG-13,2015
+tt0095088,Elvira: Mistress of the Dark,(1988),PG-13,1988
+tt0095484,Lady in White,(1988),PG-13,1988
+tt0114608,Tales from the Crypt: Demon Knight,(1995),R,1995
+tt0061931,Mad Monster Party?,(1967),Unrated,1967
+tt0112462,Batman Forever,(1995),PG-13,1995
+tt1725156,Scared Shrekless,(2010 TV Short),TV-PG,2010
+tt1268809,Night of the Demons,(2009),R,2009
+tt0281686,Bubba Ho-Tep,(2002),R,2002
+tt1451423,The Boy Who Cried Werewolf,(2010 TV Movie),TV-PG,2010
+tt0128801,Under Wraps,(1997 TV Movie),G,1997
+tt0312004,Wallace & Gromit: The Curse of the Were-Rabbit,(2005),G,2005
+tt0132666, The Wonderful World of Disney,(1995–2019),Unrated,1995
+tt0245674,Thir13en Ghosts,(2001),R,2001
+tt0192255,The Little Vampire,(2000),PG,2000
+tt0101821,Ernest Scared Stupid,(1991),PG,1991
+tt0267913,Scooby-Doo,(2002),PG,2002
+tt0081738,The Watcher in the Woods,(1980),PG,1980
+tt0257516,Cursed,(2005),PG-13,2005
+tt1792131,Spooky Buddies,(2011 Video),G,2011
+tt4163020,Tales of Halloween,(2015),R,2015
+tt1673423,My Babysitter's a Vampire,(2010 TV Movie),TV-PG,2010
+tt0116356,Frankenstein and Me,(1996),PG,1996
+tt0106763,"Double, Double Toil and Trouble",(1993 TV Movie),TV-Y7,1993
